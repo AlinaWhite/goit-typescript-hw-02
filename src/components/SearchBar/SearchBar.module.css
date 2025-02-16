@@ -1,0 +1,13 @@
+.header {
+    background-color: #fff;
+    padding: 10px;
+}
+
+input {
+    width: 300px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}

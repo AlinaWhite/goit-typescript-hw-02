@@ -1,0 +1,26 @@
+{
+  "name": "goit-typescript-hw-02",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2",
+    "vite": "^6.1.0"
+  },
+  "dependencies": {
+    "@testing-library/react": "^16.2.0",
+    "axios": "^1.7.9",
+    "loader": "^2.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "react-modal": "^3.16.3",
+    "spinner": "^0.3.4",
+    "web-vitals": "^4.2.4"
+  }
+}
